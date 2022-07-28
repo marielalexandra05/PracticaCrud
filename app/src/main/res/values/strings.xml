@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProyectoSQLite</string>
+    <string name="cedula">Ingrese su cedula</string>
+    <string name="nombre">Ingrese su nombre</string>
+    <string name="apellido">Ingrese su apellido</string>
+    <string name="direccion">Ingrese su Direcciòn</string>
+    <string name="estadocivil">Ingrese su estado civil</string>
+    <string name="btnActualizar">actualizar</string>
+    <string name="btnEditar">Editar</string>
+    <string name="btnInsertar">Insertar</string>
+    <string name="btnEliminar">Eliminar</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="crudEmpleado">Ingrese sus Datos</string>
+</resources>

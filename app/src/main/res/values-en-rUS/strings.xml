@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProyectoSQLite</string>
+    <string name="cedula">Enter your ID</string>
+    <string name="nombre" translatable="false">Enter your name</string>
+    <string name="apellido">Enter your last name</string>
+    <string name="direccion">Enter your address</string>
+    <string name="estadocivil">Enter your marital status</string>
+    <string name="btnActualizar">To Update</string>
+    <string name="btnEditar">Edit</string>
+    <string name="btnInsertar">Insert</string>
+    <string name="btnEliminar">Delete</string>
+    <string name="btnBuscar">Search</string>
+    <string name="crudEmpleado">Enter your details</string>
+</resources>
